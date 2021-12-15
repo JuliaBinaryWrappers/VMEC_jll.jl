@@ -1,0 +1,20 @@
+[[VMEC]]
+arch = "x86_64"
+git-tree-sha1 = "a684c8a71db8a8ebc11cd44b76ee6012b325f5e7"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[VMEC.download]]
+    sha256 = "b86fae634a03b6b2974dc89d69057cb5f10e14c9179e6ca2c83a55990fcf1c57"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.0+0/VMEC.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[VMEC]]
+arch = "x86_64"
+git-tree-sha1 = "6468e0727ed0a0ecb7abf08b86c85889aeebfd93"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[VMEC.download]]
+    sha256 = "427bbfb452066eecbe6516072013f21755a9181cb30ba6528cb8ac42978f351a"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.0+0/VMEC.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
