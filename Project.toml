@@ -1,6 +1,6 @@
 name = "VMEC_jll"
 uuid = "71cc7b0d-25ae-54b3-b08b-36363cca7c2f"
-version = "1.0.0+0"
+version = "1.0.3+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -8,7 +8,6 @@ SCALAPACK_jll = "5d3fc3e8-a677-5550-826f-6cfd58f208da"
 OpenBLAS_jll = "4536629a-c528-5b80-bd46-f80d51c5b363"
 NetCDFF_jll = "78e728a9-57fe-5d11-897c-5014b89e5f84"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
-oneTBB_jll = "1317d2d5-d96f-522e-a858-c73665f53c3e"
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 NetCDF_jll = "7243133f-43d8-5620-bbf4-c2c921802cf3"

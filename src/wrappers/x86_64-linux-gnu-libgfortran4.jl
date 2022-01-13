@@ -5,15 +5,14 @@ using MPICH_jll
 using OpenBLAS_jll
 using SCALAPACK_jll
 using MKL_jll
-using oneTBB_jll
 using NetCDF_jll
 using NetCDFF_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("VMEC")
-JLLWrappers.@declare_library_product(libvmec_mkl, "libvmec_mkl.so")
-JLLWrappers.@declare_library_product(libvmec_openblas, "libvmec_openblas.so")
+JLLWrappers.@declare_library_product(libvmec_mkl, "libvmec_mkl.so.0")
+JLLWrappers.@declare_library_product(libvmec_openblas, "libvmec_openblas.so.0")
 function __init__()
-    JLLWrappers.@generate_init_header(MPICH_jll, OpenBLAS_jll, SCALAPACK_jll, MKL_jll, oneTBB_jll, NetCDF_jll, NetCDFF_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(MPICH_jll, OpenBLAS_jll, SCALAPACK_jll, MKL_jll, NetCDF_jll, NetCDFF_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libvmec_mkl,
         "lib/libvmec_mkl.so",
