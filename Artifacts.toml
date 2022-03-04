@@ -1,56 +1,56 @@
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "c473367d64bb4cf7f4bbd1cf47fb4c52c32a4019"
+git-tree-sha1 = "9f8ada79a3cb920908ce5cff4aad595135a63692"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[VMEC.download]]
-    sha256 = "49629f9e34bf6e66a4bd253daa8f633033fc63a3b23d0648460c14a66d518bb2"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "901b2f69837545d46994053e61a7d307efb29f0d9a50ab277931f80a2fe484bc"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "d4fe7efc9a54949aa44a12ac19c28f11792aef98"
+git-tree-sha1 = "9f49c943b81bde738a0765d16b98fcaf4af99f8e"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[VMEC.download]]
-    sha256 = "69611adaa11d09489d2eaecd88d957898d1bfe717170ac1c63b3ccb75a1add23"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "5fedde9b4820528e60d72a35b86189594a83ee9f6a40bd69cffbfa695ba9630e"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "3c76f4d237e939ba747633a611cbdda669a8ea37"
+git-tree-sha1 = "5f962e819a2a4e9778f5729afd1505a710a4568e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[VMEC.download]]
-    sha256 = "c61821910d54c270f6050f869466a8a2df727d6e468ab408fadbef79438315f4"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "e33e874ba4d4e03a1ffe9fb44922007828331462438b3ba925b3818b85d3fa6f"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "34ae5f7f9570e24e376b4d16015425822ce60091"
+git-tree-sha1 = "47522b4937f17d31e8189a28e5d25b0c506fe6bc"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[VMEC.download]]
-    sha256 = "45fbe732e7501a2cf95d95f69cf90aba0f590cd3f9b6864eadb173e20d1be420"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "e8e533b9f2d90a02194af2e759b92688c3ebffd8a832f6dfb61a74a3c627e040"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "62c7a8acda555e40842ac39b26d0fc09d243235f"
+git-tree-sha1 = "38709cf496283d48e45794581369d84b28360423"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[VMEC.download]]
-    sha256 = "d25ea937d642c7061559f1f4c1d827b8ed9b154f5107b484f1bab4a98a71a3c7"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "7c8c81bc6aec832c4a07986e080c8a540f02112d4a9ef626fd6b9f9cb348041e"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[VMEC]]
 arch = "x86_64"
-git-tree-sha1 = "dfc99cc46a76355820c7163ee375cfa940b8e8b2"
+git-tree-sha1 = "c1072712440589d8ec44b4df0e2f55da36e7f3b8"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[VMEC.download]]
-    sha256 = "991f99b62d83f5b8e1fa637833bdf69528450670f81d3b476617716b75ebdd64"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.0.301+0/VMEC.v1.0.301.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "cf897864ebc361d34ec21222d0ee5cc8559ca45b31fc52d9912c157180e06476"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.1.0+0/VMEC.v1.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
