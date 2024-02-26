@@ -6,7 +6,6 @@ using OpenBLAS_jll
 using MKL_jll
 using CompilerSupportLibraries_jll
 using MicrosoftMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("VMEC")
 JLLWrappers.@declare_library_product(libvmec_mkl, "libvmec_mkl-0.dll")
 JLLWrappers.@declare_library_product(libvmec_openblas, "libvmec_openblas-0.dll")
