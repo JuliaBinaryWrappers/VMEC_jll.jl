@@ -8,7 +8,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "92e966d6f95f3de50eb7a5136b5d20708696ba500ee3fce47117001fc73fcba7"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "289e0b78f829d4b197370fc6f35bfa47e9ced76d"
@@ -19,7 +19,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "2af4f85e7a0c4fb964a6841612ef40c71e89921295e083ff3558f0c0a1758256"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "0a36ec5da03cc7cc720da2c97ecae0a03c097f28"
@@ -30,7 +30,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "0c1eff67a9b5183a54671b048ecef0db53de95c82d9aeb2b182b3f5485e49adf"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "d19335aaa0bec6e9b888d5cceb6ae68fbe868c7e"
@@ -41,7 +41,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "281b1cfc0bf06a402d0255545b4af79825693c7a0fa222ec42241595b76cab02"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "cdfc1fd1356879d6f25fe7a79da93a9ead414cbf"
@@ -52,7 +52,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "1363f96e22c1f5eeefd3fd73c5a5eef38c56aba850e66a155074efa17800804b"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "1ee29b84d7d1ebdf74ce5d4a5618ba443eb7ad3e"
@@ -63,7 +63,7 @@ os = "macos"
 
     [[VMEC.download]]
     sha256 = "67b7f7e84e2916eff2c1caebaa5ecc1e44009914c5548f3137cf33f76fcdb19c"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "895b610aeb66d14f5e062b55d5355306d79d1638"
@@ -75,7 +75,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "2bb29f060f0af3e9f5389b827809a6e6e0d9a097964e2bb62536f8068ff93b13"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "1499e58f71b1d607df507bd318207052d1546f7a"
@@ -87,7 +87,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "fdf7095514425ac472f011ed4f10cbfa8f6af37bfcffb9d6a21305a038b64386"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "6400cba1cef9d05dd08468cb510d257fff24321d"
@@ -99,7 +99,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "ac3611d74390ac1449450102ac3734a301a965363f1eacaddb36dc4dc7ad0235"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "7bd8b7486b3a3648f115a7b2c1eca8875d477625"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "7eefdacabdadf92b85a2a4ee8c291172128ec3e8516e62a081aa5c7164066de9"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "5bef58440d605f7b329003e415be135d8dc253ef"
@@ -123,7 +123,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "eb8d039c09748ef48ff1c07a50546be55aafc8529bda1e839d092e59982cc124"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "5c55630662541e98f500642e767e520e2d16fa7e"
@@ -135,7 +135,7 @@ os = "linux"
 
     [[VMEC.download]]
     sha256 = "efe4680b313e525c3c9eef41ddf18ff108c83e79f6d9e52b4a04d80fd21c99e9"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "c18c4dc59e0cb1f5c94035c128646a8c01a002fb"
@@ -146,7 +146,7 @@ os = "windows"
 
     [[VMEC.download]]
     sha256 = "bb06a55c2c451514b124a24c047694e8c5c96ed46232890ee30a3ff469753fec"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
 [[VMEC]]
 arch = "x86_64"
 git-tree-sha1 = "d7c46169c663b8131ac840d89728aedd2be05fc5"
@@ -157,4 +157,4 @@ os = "windows"
 
     [[VMEC.download]]
     sha256 = "57c0b6ff2117d3e5ada30f401a1e3f953faabdba67eda0f2fe54106bd9fa33cb"
-    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+0/VMEC.v1.3.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VMEC_jll.jl/releases/download/VMEC-v1.3.0+1/VMEC.v1.3.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
